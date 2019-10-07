@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sdragnol/Desktop/GA/Kieu_du_lieu.h
+
+/home/sdragnol/Desktop/GA/adjust.h
+
+/home/sdragnol/Desktop/GA/calculator.h
+
+/home/sdragnol/Desktop/GA/constan.h
+
+/home/sdragnol/Desktop/GA/crossover.h
+
+/home/sdragnol/Desktop/GA/individual_ calculator.h
+
+/home/sdragnol/Desktop/GA/initialize.h
+
+/home/sdragnol/Desktop/GA/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+constan.h
+/home/sdragnol/Desktop/GA/constan.h
+Kieu_du_lieu.h
+/home/sdragnol/Desktop/GA/Kieu_du_lieu.h
+print.h
+/home/sdragnol/Desktop/GA/print.h
+individual_ calculator.h
+/home/sdragnol/Desktop/GA/individual_ calculator.h
+calculator.h
+/home/sdragnol/Desktop/GA/calculator.h
+adjust.h
+/home/sdragnol/Desktop/GA/adjust.h
+initialize.h
+/home/sdragnol/Desktop/GA/initialize.h
+parents_seletion.h
+/home/sdragnol/Desktop/GA/parents_seletion.h
+crossover.h
+/home/sdragnol/Desktop/GA/crossover.h
+mutation.h
+/home/sdragnol/Desktop/GA/mutation.h
+survivor_seletion.h
+/home/sdragnol/Desktop/GA/survivor_seletion.h
+
+/home/sdragnol/Desktop/GA/mutation.h
+
+/home/sdragnol/Desktop/GA/parents_seletion.h
+
+/home/sdragnol/Desktop/GA/print.h
+
+/home/sdragnol/Desktop/GA/survivor_seletion.h
+
