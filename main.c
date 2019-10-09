@@ -68,5 +68,6 @@ int main() {
     //////////////////////
     printf("Best: ");
     Print_Information_Individual(best);
+    printf("Over\n");
     return 1;
 }
